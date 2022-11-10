@@ -1,3 +1,3 @@
-jmena = ["Ja", "Prosim", "Nevim"]
+jmena = ["Ja",,,,,"Prosim", "Nevim"]
 for jmeno in jmena:
     print(jmeno)
