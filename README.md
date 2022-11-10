@@ -1,6 +1,6 @@
-#Co tady delam
+# Co tady delam
 
 Prvni pokus, jazyk Python.
 
-##Ucim se Python
+## Ucim se Python
 Hehe
